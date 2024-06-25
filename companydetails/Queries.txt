@@ -57,7 +57,6 @@ Order By Queries (5)
 35. Select departments ordered by the total salary of their employees.
 
 
-
 Join Queries (10)
 36. Select employee names along with their department names.
 37. Select project names along with the department names they belong to.
