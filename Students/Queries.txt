@@ -1,0 +1,35 @@
+Intermediate and Advanced Queries (30)
+
+
+1. Find all students who are enrolled in at least one course.
+2. List the names of students who are not enrolled in any courses.
+3. Find the average grade for each student.
+4. List the courses along with the number of students enrolled in each course.
+5. Find the department with the highest number of students.
+6. List all students along with the total credits they are enrolled in.
+7. Find the courses taught by 'Prof. Adams'.
+8. List students who have enrolled in both 'Math 101' and 'Science 101'.
+9. Find the highest grade achieved in each course.
+10. List the courses with more than 2 students enrolled.
+11. Find the total number of students enrolled in each department.
+12. List the instructors along with the number of courses they teach.
+13. Find the students who have achieved a grade of 'A' in all their courses.
+14. List the courses that are not taken by any student.
+15. Find the number of male and female students in each department. 
+
+
+16. List students who enrolled in courses in the current year.
+17. Find the students who have taken all the courses offered by their department.
+18. List the students and their average grades, ordered by the average grade in descending order.
+19. Find the instructors who teach courses in more than one department.
+20. List the departments and the total number of credits offered by each.
+21. Find students who have not enrolled in any course in the 'Science' department.
+22. List the students and their highest grades in any course.
+23. Find the courses with no grades lower than 'B'.
+24. List the students along with the names of the courses they are enrolled in, ordered by student name and course name.
+25. Find the instructors who do not teach any courses.
+26. List the courses that have been taken by students from multiple departments.
+27. Find the total number of courses taught by each instructor, ordered by the number of courses in descending order.
+28. List the students who have enrolled in courses worth more than 10 credits.
+29. Find the departments with the average student age less than 21.
+30. List the students who have never received a grade of 'C' or lower.
